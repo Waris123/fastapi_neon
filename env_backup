@@ -1,0 +1,5 @@
+DATABASE_URL="postgresql://*******sslmode=require"
+
+TEST_DATABASE_URL="postgresql://*********sslmode=require"
+
+SECRET_KEY="abc123"
